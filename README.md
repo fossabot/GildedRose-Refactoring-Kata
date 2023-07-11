@@ -1,4 +1,6 @@
 # Gilded Rose Refactoring Kata
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhwanjunkim%2FGildedRose-Refactoring-Kata.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhwanjunkim%2FGildedRose-Refactoring-Kata?ref=badge_shield)
+
 
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](https://iamnotmyself.com/refactor-this-the-gilded-rose-kata/).
 
@@ -51,3 +53,7 @@ Please don't write too much code in the starting position or add too many unit t
 
 If your programming language doesn't have an easy way to add a command-line interface, then the TextTest fixture is probably not necessary.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhwanjunkim%2FGildedRose-Refactoring-Kata.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhwanjunkim%2FGildedRose-Refactoring-Kata?ref=badge_large)
